@@ -5,13 +5,19 @@ This repository contains information about the journal license agreements listed
 https://www.openscience.no/en/publisering/apen-publisering
 
 ## Content
-The data is provided in two ways, both containing the same information (duplicates). 
-  - `/all`  
-    All agreements listed in one single file. A `.csv` using ";" for the field separator and "," for the decimal point.
-  - `/agreement_name01`  
-    Separat folders for each agreement, with an Excel (`.xlsx`) file.
+There are currently two main folders, one with data on agreement journals and one with data on agreement participant institutions.  
+Journal lists are based on data received directly from the publisher and may be enriched with additional information found on the publishers website. Participant lists are based on data from the consortium administration system Edvarda. 
 
-## Structure
+## Structure  
+Data are availiable in two equal formats, both containing the same information (duplicates):
+   - `/all`  
+     All agreements aggregated into one single file. A `.csv` using ";" for the field separator and "," for the decimal point.
+   - `/agreement_name01`  
+     Separat folders for each agreement, with an Excel (`.xlsx`) file.  
+  
+The `*_current.*` file will always containt the most recent version of the data. Additionally, historic versions are also provided on a year by year basis.
+
+Example:
 ```
 raymond_data_par_agreements
     agreement_journals
