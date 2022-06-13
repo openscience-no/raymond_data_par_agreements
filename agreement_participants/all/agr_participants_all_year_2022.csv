@@ -1,72 +1,347 @@
-agr_name;agr_participant;cri_inst_name_all;cri_inst_id;publisher_standard_name
-cup;Handelshøyskolen BI;Handelshøyskolen BI;158;Cambridge University Press
-cup;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;Cambridge University Press
-cup;Institutt For Fredsforskning;PRIO - Institutt for fredsforskning;7435;Cambridge University Press
-cup;NIBIO;Norsk institutt for bioøkonomi;7677;Cambridge University Press
-cup;Nord Universitet;Nord universitet;204;Cambridge University Press
-cup;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;Cambridge University Press
-cup;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;Cambridge University Press
-cup;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;Cambridge University Press
-cup;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;Cambridge University Press
-cup;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;Cambridge University Press
-cup;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;Cambridge University Press
-cup;Universitetet i Agder;Universitetet i Agder;201;Cambridge University Press
-cup;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;Cambridge University Press
-cup;Universitetet i Bergen;Universitetet i Bergen;184;Cambridge University Press
-cup;Universitetet I Stavanger;Universitetet i Stavanger;217;Cambridge University Press
-springer;Diakonhjemmet Sykehus. Medisinsk Bibliotek;Diakonhjemmet sykehus;1990;SpringerNature
-springer;GRID-Arendal;NA;NA;SpringerNature
-springer;Handelshøyskolen BI;Handelshøyskolen BI;158;SpringerNature
-springer;Havforskningsinstituttet;Havforskningsinstituttet;7431;SpringerNature
-springer;Høgskolen I Innlandet;Høgskolen i Innlandet;209;SpringerNature
-springer;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;SpringerNature
-springer;Høgskolen i Østfold;Høgskolen i Østfold;224;SpringerNature
-springer;Høgskulen i Volda;Høgskulen i Volda;223;SpringerNature
-springer;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;SpringerNature
-springer;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;Høyskolen Kristiania;1615;SpringerNature
-springer;Institutt for energiteknikk;Institutt for energiteknikk;7492;SpringerNature
-springer;Meteorologisk institutt;Meteorologisk institutt;7419;SpringerNature
-springer;MF Vitenskapelig Høyskole For Teologi, Religion Og Samfunn;MF vitenskapelig høyskole for teologi, religion og samfunn;190;SpringerNature
-springer;NIBIO;Norsk institutt for bioøkonomi;7677;SpringerNature
-springer;NILU - Stiftelsen Norsk Institutt For Luftforskning;NILU - Norsk institutt for luftforskning;7460;SpringerNature
-springer;Nofima;NOFIMA;7543;SpringerNature
-springer;NORCE Norwegian Research Centre AS;NORCE Norwegian Research Centre AS;2057;SpringerNature
-springer;Nord Universitet;Nord universitet;204;SpringerNature
-springer;Nordlandsforskning;Nordlandsforskning;7446;SpringerNature
-springer;Norges Geotekniske Institutt;Norges Geotekniske Institutt;7452;SpringerNature
-springer;Norges Handelshøyskole;Norges Handelshøyskole;191;SpringerNature
-springer;Norges Idrettshøgskole - Biblioteket;Norges idrettshøgskole;150;SpringerNature
-springer;Norges miljø- og biovitenskapelige universitet;Norges miljø- og biovitenskapelige universitet;192;SpringerNature
-springer;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;SpringerNature
-springer;Norges teknisk-naturvitenskapelige universitet;St. Olavs Hospital HF;1920;SpringerNature
-springer;Norsk institutt for naturforskning;Norsk institutt for naturforskning;7511;SpringerNature
-springer;Norsk Institutt For Vannforskning;Norsk institutt for vannforskning;7464;SpringerNature
-springer;Norsk Polarinstitutt;Norsk Polarinstitutt;7466;SpringerNature
-springer;Oslo Nye Høyskole;Oslo Nye Høyskole;1620;SpringerNature
-springer;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;SpringerNature
-springer;SINTEF AS;SINTEF AS;7401;SpringerNature
-springer;SINTEF AS;SINTEF Energi AS;7548;SpringerNature
-springer;SINTEF AS;SINTEF Manufacturing;7630;SpringerNature
-springer;SINTEF AS;SINTEF Narvik;6228;SpringerNature
-springer;SINTEF AS;SINTEF Ocean;7566;SpringerNature
-springer;Statens Arbeidsmiljøinstitutt;Statens arbeidsmiljøinstitutt;7476;SpringerNature
-springer;Statistisk Sentralbyrå;Statistisk sentralbyrå;5932;SpringerNature
-springer;Sykehuset Østfold;Sykehuset Østfold HF;1983;SpringerNature
-springer;Sykehuset Telemark HF;Sykehuset Telemark HF;1959;SpringerNature
-springer;Transportøkonomisk Institutt;Transportøkonomisk institutt;7482;SpringerNature
-springer;UiO : Universitetsbiblioteket;Akershus universitetssykehus HF;1972;SpringerNature
-springer;UiO : Universitetsbiblioteket;Folkehelseinstituttet;7502;SpringerNature
-springer;UiO : Universitetsbiblioteket;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;SpringerNature
-springer;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;SpringerNature
-springer;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;SpringerNature
-springer;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;SpringerNature
-springer;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;SpringerNature
-springer;Universitetet i Agder;Universitetet i Agder;201;SpringerNature
-springer;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;SpringerNature
-springer;Universitetet i Bergen;Universitetet i Bergen;184;SpringerNature
-springer;Universitetet I Sørøst-Norge;Universitetet i Sørøst-Norge;222;SpringerNature
-springer;Universitetet I Stavanger;Universitetet i Stavanger;217;SpringerNature
-springer;Universitetssenteret på Svalbard;Universitetssenteret på Svalbard;195;SpringerNature
-springer;Utdanningsdirektoratet;NA;NA;SpringerNature
-springer;Vestlandsforsking;Vestlandsforsking;7484;SpringerNature
-springer;Vestre Viken HF;Vestre Viken HF;2017;SpringerNature
+agr_name;agr_participant;cri_inst_name_all;cri_inst_id;publisher_standard_name;edvarda_participant_id;agr_inst_tag
+acs;Høgskolen i Østfold;Høgskolen i Østfold;224;American Chemical Society;15443;hioef
+acs;NILU - Stiftelsen Norsk Institutt For Luftforskning;NILU - Norsk institutt for luftforskning;7460;American Chemical Society;15488;nilu
+acs;Norges Geotekniske Institutt;Norges Geotekniske Institutt;7452;American Chemical Society;15477;ngi
+acs;Norges miljø- og biovitenskapelige universitet;Norges miljø- og biovitenskapelige universitet;192;American Chemical Society;15493;nmbu
+acs;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;American Chemical Society;15507;ntnu
+acs;Norsk Institutt For Vannforskning;Norsk institutt for vannforskning;7464;American Chemical Society;15491;niva
+acs;SINTEF AS;SINTEF Narvik;6228;American Chemical Society;15526;sintef
+acs;SINTEF AS;SINTEF AS;7401;American Chemical Society;15526;sintef02
+acs;SINTEF AS;SINTEF Energi AS;7548;American Chemical Society;15526;sintef03
+acs;SINTEF AS;SINTEF Ocean;7566;American Chemical Society;15526;sintef04
+acs;SINTEF AS;SINTEF Manufacturing;7630;American Chemical Society;15526;sintef05
+acs;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;American Chemical Society;15550;uio
+acs;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;American Chemical Society;15552;uit
+acs;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;American Chemical Society;15552;uit02
+acs;Universitetet i Bergen;Universitetet i Bergen;184;American Chemical Society;15549;uib
+acs;Universitetet I Stavanger;Universitetet i Stavanger;217;American Chemical Society;15551;uis
+acs;Universitetet I Sørøst-Norge;Universitetet i Sørøst-Norge;222;American Chemical Society;15447;usn
+acs;Universitetssenteret på Svalbard;Universitetssenteret på Svalbard;195;American Chemical Society;15553;unis
+cup;Bergen Global, Chr. Michelsens Institutt;Chr. Michelsen Institute;7416;Cambridge University Press;15355;cmi
+cup;Handelshøyskolen BI;Handelshøyskolen BI;158;Cambridge University Press;15353;bi
+cup;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;Cambridge University Press;15449;hvl
+cup;Institutt For Fredsforskning;PRIO - Institutt for fredsforskning;7435;Cambridge University Press;15516;prio
+cup;NIBIO;Norsk institutt for bioøkonomi;7677;Cambridge University Press;15481;nibio
+cup;Nord Universitet;Nord universitet;204;Cambridge University Press;15499;nord
+cup;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;Cambridge University Press;15507;ntnu
+cup;Norges teknisk-naturvitenskapelige universitet;St. Olavs Hospital HF;1920;Cambridge University Press;15507;ntnu02
+cup;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;Cambridge University Press;15439;oslomet
+cup;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;Cambridge University Press;15550;uio
+cup;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;Cambridge University Press;15550;uio02
+cup;UiO : Universitetsbiblioteket;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;Cambridge University Press;15550;uio03
+cup;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;Cambridge University Press;15552;uit
+cup;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;Cambridge University Press;15552;uit02
+cup;Universitetet i Agder;Universitetet i Agder;201;Cambridge University Press;15548;uia
+cup;Universitetet i Bergen;Universitetet i Bergen;184;Cambridge University Press;15549;uib
+cup;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;Cambridge University Press;15549;uib02
+cup;Universitetet I Stavanger;Universitetet i Stavanger;217;Cambridge University Press;15551;uis
+cup;Universitetet I Stavanger;Helse Stavanger HF - Stavanger universitetssjukehus;1938;Cambridge University Press;15551;uis02
+degruyter;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;DeGruyter;15550;uio
+degruyter;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;DeGruyter;15550;uio02
+degruyter;UiO : Universitetsbiblioteket;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;DeGruyter;15550;uio03
+degruyter;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;DeGruyter;15552;uit
+degruyter;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;DeGruyter;15552;uit02
+degruyter;Universitetet i Bergen;Universitetet i Bergen;184;DeGruyter;15549;uib
+degruyter;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;DeGruyter;15549;uib02
+elsevier;Bergen Global, Chr. Michelsens Institutt;Chr. Michelsen Institute;7416;Elsevier;15355;cmi
+elsevier;Departementenes Sikkerhets- Og Serviceorganisasjon;NA;NA;Elsevier;15361;dss
+elsevier;Direktoratet for strålevern og atomsikkerhet;NA;NA;Elsevier;15505;dsa
+elsevier;Folkehelseinstituttet;Folkehelseinstituttet;7502;Elsevier;15419;fhi
+elsevier;Forsvarets forskningsinstitutt;Forsvarets forskningsinstitutt;7428;Elsevier;15418;ffi
+elsevier;GRID-Arendal;NA;NA;Elsevier;51025;grid
+elsevier;Handelshøyskolen BI;Handelshøyskolen BI;158;Elsevier;15353;bi
+elsevier;Havforskningsinstituttet;Havforskningsinstituttet;7431;Elsevier;15454;imr
+elsevier;Høgskolen I Innlandet;Høgskolen i Innlandet;209;Elsevier;15428;inn
+elsevier;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;Elsevier;15435;himolde
+elsevier;Høgskolen i Østfold;Høgskolen i Østfold;224;Elsevier;15443;hioef
+elsevier;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;Elsevier;15449;hvl
+elsevier;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;Høyskolen Kristiania;1615;Elsevier;15444;hk
+elsevier;Institutt for energiteknikk;Institutt for energiteknikk;7492;Elsevier;15451;ife
+elsevier;Lovisenberg Diakonale Høgskole;Lovisenberg diakonale høgskole;230;Elsevier;15464;ldh
+elsevier;Meteorologisk institutt;Meteorologisk institutt;7419;Elsevier;15468;met
+elsevier;Miljødirektoratet;NA;NA;Elsevier;15467;mdir
+elsevier;NIBIO;Norsk institutt for bioøkonomi;7677;Elsevier;15481;nibio
+elsevier;NILU - Stiftelsen Norsk Institutt For Luftforskning;NILU - Norsk institutt for luftforskning;7460;Elsevier;15488;nilu
+elsevier;Nofima;NOFIMA;7543;Elsevier;15496;nofima
+elsevier;NORCE Norwegian Research Centre AS;NORCE Norwegian Research Centre AS;2057;Elsevier;50928;norce
+elsevier;Nord Universitet;Nord universitet;204;Elsevier;15499;nord
+elsevier;Norges geologiske undersøkelse;Norges geologiske undersøkelse;7451;Elsevier;15478;ngu
+elsevier;Norges Geotekniske Institutt;Norges Geotekniske Institutt;7452;Elsevier;15477;ngi
+elsevier;Norges Handelshøyskole;Norges Handelshøyskole;191;Elsevier;15480;nhh
+elsevier;Norges Idrettshøgskole - Biblioteket;Norges idrettshøgskole;150;Elsevier;15485;nih
+elsevier;Norges miljø- og biovitenskapelige universitet;Norges miljø- og biovitenskapelige universitet;192;Elsevier;15493;nmbu
+elsevier;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;Elsevier;15507;ntnu
+elsevier;Norges teknisk-naturvitenskapelige universitet;St. Olavs Hospital HF;1920;Elsevier;15507;ntnu02
+elsevier;Norges vassdrags- og energidirektorat;NA;NA;Elsevier;15509;nve
+elsevier;Norsk institutt for naturforskning;Norsk institutt for naturforskning;7511;Elsevier;15489;nina
+elsevier;Norsk Institutt For Vannforskning;Norsk institutt for vannforskning;7464;Elsevier;15491;niva
+elsevier;Norsk Polarinstitutt;Norsk Polarinstitutt;7466;Elsevier;15502;npolar
+elsevier;NUBU - Nasjonalt utviklingssenter for barn og unge;NA;NA;Elsevier;51031;nubu
+elsevier;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;Elsevier;15439;oslomet
+elsevier;Regionsenter for barn og unges psykiske helse, helseregion Øst og Sør;RBUP Øst og Sør;7539;Elsevier;15519;rbupos
+elsevier;SINTEF AS;SINTEF Narvik;6228;Elsevier;15526;sintef
+elsevier;SINTEF AS;SINTEF AS;7401;Elsevier;15526;sintef02
+elsevier;SINTEF AS;SINTEF Energi AS;7548;Elsevier;15526;sintef03
+elsevier;SINTEF AS;SINTEF Ocean;7566;Elsevier;15526;sintef04
+elsevier;SINTEF AS;SINTEF Manufacturing;7630;Elsevier;15526;sintef05
+elsevier;Statens Arbeidsmiljøinstitutt;Statens arbeidsmiljøinstitutt;7476;Elsevier;15537;stami
+elsevier;Statistisk Sentralbyrå;Statistisk sentralbyrå;5932;Elsevier;15535;ssb
+elsevier;Tannhelsetjenestens Kompetansesentre;Tannhelsetjenestens kompetansesentre;2060;Elsevier;15541;tk
+elsevier;Transportøkonomisk Institutt;Transportøkonomisk institutt;7482;Elsevier;15544;toei
+elsevier;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;Elsevier;15550;uio
+elsevier;UiO : Universitetsbiblioteket;Akershus universitetssykehus HF;1972;Elsevier;15550;uio02
+elsevier;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;Elsevier;15550;uio03
+elsevier;UiO : Universitetsbiblioteket;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;Elsevier;15550;uio04
+elsevier;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;Elsevier;15552;uit
+elsevier;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;Elsevier;15552;uit02
+elsevier;Universitetet i Agder;Universitetet i Agder;201;Elsevier;15548;uia
+elsevier;Universitetet i Bergen;Universitetet i Bergen;184;Elsevier;15549;uib
+elsevier;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;Elsevier;15549;uib02
+elsevier;Universitetet I Stavanger;Universitetet i Stavanger;217;Elsevier;15551;uis
+elsevier;Universitetet I Sørøst-Norge;Universitetet i Sørøst-Norge;222;Elsevier;15447;usn
+elsevier;Universitetssenteret på Svalbard;Universitetssenteret på Svalbard;195;Elsevier;15553;unis
+elsevier;Veterinærinstituttet;Veterinærinstituttet;7497;Elsevier;15556;vetinst
+elsevier;VID Vitenskapelige Høgskole;VID vitenskapelige høgskole;251;Elsevier;15557;vid
+oupj;Diakonhjemmet Sykehus. Medisinsk Bibliotek;Diakonhjemmet sykehus;1990;Oxford University Press;15359;diakonsyk
+oupj;Handelshøyskolen BI;Handelshøyskolen BI;158;Oxford University Press;15353;bi
+oupj;Havforskningsinstituttet;Havforskningsinstituttet;7431;Oxford University Press;15454;imr
+oupj;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;Oxford University Press;15449;hvl
+oupj;Institutt For Samfunnsforskning;Institutt for samfunnsforskning;7437;Oxford University Press;15455;isf
+oupj;NIBIO;Norsk institutt for bioøkonomi;7677;Oxford University Press;15481;nibio
+oupj;NORCE Norwegian Research Centre AS;NORCE Norwegian Research Centre AS;2057;Oxford University Press;50928;norce
+oupj;Norges Bank;NA;NA;Oxford University Press;15472;nbank
+oupj;Norges miljø- og biovitenskapelige universitet;Norges miljø- og biovitenskapelige universitet;192;Oxford University Press;15493;nmbu
+oupj;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;Oxford University Press;15507;ntnu
+oupj;Norges teknisk-naturvitenskapelige universitet;St. Olavs Hospital HF;1920;Oxford University Press;15507;ntnu02
+oupj;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;Oxford University Press;15439;oslomet
+oupj;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;Oxford University Press;15550;uio
+oupj;UiO : Universitetsbiblioteket;Akershus universitetssykehus HF;1972;Oxford University Press;15550;uio02
+oupj;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;Oxford University Press;15550;uio03
+oupj;UiO : Universitetsbiblioteket;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;Oxford University Press;15550;uio04
+oupj;UiO : Universitetsbiblioteket;Folkehelseinstituttet;7502;Oxford University Press;15550;uio05
+oupj;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;Oxford University Press;15552;uit
+oupj;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;Oxford University Press;15552;uit02
+oupj;Universitetet i Bergen;Universitetet i Bergen;184;Oxford University Press;15549;uib
+oupj;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;Oxford University Press;15549;uib02
+sage;Barne-, ungdoms- og familiedirektoratet;NA;NA;SAGE;15356;bufdir
+sage;Bergen Global, Chr. Michelsens Institutt;Chr. Michelsen Institute;7416;SAGE;15355;cmi
+sage;Dronning Mauds Minne Høgskole For Barnehagelærerutdanning;Dronning Mauds Minne Høgskole for barnehagelærerutdanning;253;SAGE;15360;dmmh
+sage;Forskningsstiftelsen Fafo;Forskningsstiftelsen Fafo;7425;SAGE;15362;fafo
+sage;Handelshøyskolen BI;Handelshøyskolen BI;158;SAGE;15353;bi
+sage;Høgskolen I Innlandet;Høgskolen i Innlandet;209;SAGE;15428;inn
+sage;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;SAGE;15435;himolde
+sage;Høgskolen i Østfold;Høgskolen i Østfold;224;SAGE;15443;hioef
+sage;Høgskulen i Volda;Høgskulen i Volda;223;SAGE;15450;hvo
+sage;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;SAGE;15449;hvl
+sage;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;Høyskolen Kristiania;1615;SAGE;15444;hk
+sage;Institutt For Fredsforskning;PRIO - Institutt for fredsforskning;7435;SAGE;15516;prio
+sage;Institutt For Samfunnsforskning;Institutt for samfunnsforskning;7437;SAGE;15455;isf
+sage;Lovisenberg Diakonale Høgskole;Lovisenberg diakonale høgskole;230;SAGE;15464;ldh
+sage;NIBIO;Norsk institutt for bioøkonomi;7677;SAGE;15481;nibio
+sage;Nofima;NOFIMA;7543;SAGE;15496;nofima
+sage;NORCE Norwegian Research Centre AS;NORCE Norwegian Research Centre AS;2057;SAGE;50928;norce
+sage;Nord Universitet;Nord universitet;204;SAGE;15499;nord
+sage;Nordlandsforskning;Nordlandsforskning;7446;SAGE;15474;nf
+sage;Norges Idrettshøgskole - Biblioteket;Norges idrettshøgskole;150;SAGE;15485;nih
+sage;Norges miljø- og biovitenskapelige universitet;Norges miljø- og biovitenskapelige universitet;192;SAGE;15493;nmbu
+sage;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;SAGE;15507;ntnu
+sage;Norges teknisk-naturvitenskapelige universitet;St. Olavs Hospital HF;1920;SAGE;15507;ntnu02
+sage;Norsk institutt for naturforskning;Norsk institutt for naturforskning;7511;SAGE;15489;nina
+sage;NUBU - Nasjonalt utviklingssenter for barn og unge;NA;NA;SAGE;51031;nubu
+sage;Oslo Nye Høyskole;Oslo Nye Høyskole;1620;SAGE;51024;bh
+sage;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;SAGE;15439;oslomet
+sage;Regionsenter for barn og unges psykiske helse, helseregion Øst og Sør;RBUP Øst og Sør;7539;SAGE;15519;rbupos
+sage;Riksrevisjonen;NA;NA;SAGE;15522;riksrevisjonen
+sage;SINTEF AS;SINTEF Narvik;6228;SAGE;15526;sintef
+sage;SINTEF AS;SINTEF AS;7401;SAGE;15526;sintef02
+sage;SINTEF AS;SINTEF Energi AS;7548;SAGE;15526;sintef03
+sage;SINTEF AS;SINTEF Ocean;7566;SAGE;15526;sintef04
+sage;SINTEF AS;SINTEF Manufacturing;7630;SAGE;15526;sintef05
+sage;Statped;NA;NA;SAGE;15539;statped
+sage;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;SAGE;15550;uio
+sage;UIO: Universitetsbiblioteket (OUS-avtaler);Oslo universitetssykehus HF;2012;SAGE;15511;ous
+sage;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;SAGE;15552;uit
+sage;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;SAGE;15552;uit02
+sage;Universitetet i Agder;Universitetet i Agder;201;SAGE;15548;uia
+sage;Universitetet i Bergen;Universitetet i Bergen;184;SAGE;15549;uib
+sage;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;SAGE;15549;uib02
+sage;Universitetet I Stavanger;Universitetet i Stavanger;217;SAGE;15551;uis
+sage;Universitetet I Stavanger;Helse Stavanger HF - Stavanger universitetssjukehus;1938;SAGE;15551;uis02
+sage;Universitetet I Sørøst-Norge;Universitetet i Sørøst-Norge;222;SAGE;15447;usn
+sage;Vestlandsforsking;Vestlandsforsking;7484;SAGE;24138;vf
+sage;VID Vitenskapelige Høgskole;VID vitenskapelige høgskole;251;SAGE;15557;vid
+springer;Diakonhjemmet Sykehus. Medisinsk Bibliotek;Diakonhjemmet sykehus;1990;SpringerNature;15359;diakonsyk
+springer;GRID-Arendal;NA;NA;SpringerNature;51025;grid
+springer;Handelshøyskolen BI;Handelshøyskolen BI;158;SpringerNature;15353;bi
+springer;Havforskningsinstituttet;Havforskningsinstituttet;7431;SpringerNature;15454;imr
+springer;Høgskolen I Innlandet;Høgskolen i Innlandet;209;SpringerNature;15428;inn
+springer;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;SpringerNature;15435;himolde
+springer;Høgskolen i Østfold;Høgskolen i Østfold;224;SpringerNature;15443;hioef
+springer;Høgskulen i Volda;Høgskulen i Volda;223;SpringerNature;15450;hvo
+springer;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;SpringerNature;15449;hvl
+springer;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;Høyskolen Kristiania;1615;SpringerNature;15444;hk
+springer;Institutt for energiteknikk;Institutt for energiteknikk;7492;SpringerNature;15451;ife
+springer;Meteorologisk institutt;Meteorologisk institutt;7419;SpringerNature;15468;met
+springer;MF Vitenskapelig Høyskole For Teologi, Religion Og Samfunn;MF vitenskapelig høyskole for teologi, religion og samfunn;190;SpringerNature;15469;mf
+springer;NIBIO;Norsk institutt for bioøkonomi;7677;SpringerNature;15481;nibio
+springer;NILU - Stiftelsen Norsk Institutt For Luftforskning;NILU - Norsk institutt for luftforskning;7460;SpringerNature;15488;nilu
+springer;Nofima;NOFIMA;7543;SpringerNature;15496;nofima
+springer;NORCE Norwegian Research Centre AS;NORCE Norwegian Research Centre AS;2057;SpringerNature;50928;norce
+springer;Nord Universitet;Nord universitet;204;SpringerNature;15499;nord
+springer;Nordlandsforskning;Nordlandsforskning;7446;SpringerNature;15474;nf
+springer;Norges Geotekniske Institutt;Norges Geotekniske Institutt;7452;SpringerNature;15477;ngi
+springer;Norges Handelshøyskole;Norges Handelshøyskole;191;SpringerNature;15480;nhh
+springer;Norges Idrettshøgskole - Biblioteket;Norges idrettshøgskole;150;SpringerNature;15485;nih
+springer;Norges miljø- og biovitenskapelige universitet;Norges miljø- og biovitenskapelige universitet;192;SpringerNature;15493;nmbu
+springer;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;SpringerNature;15507;ntnu
+springer;Norges teknisk-naturvitenskapelige universitet;St. Olavs Hospital HF;1920;SpringerNature;15507;ntnu02
+springer;Norsk institutt for naturforskning;Norsk institutt for naturforskning;7511;SpringerNature;15489;nina
+springer;Norsk Institutt For Vannforskning;Norsk institutt for vannforskning;7464;SpringerNature;15491;niva
+springer;Norsk Polarinstitutt;Norsk Polarinstitutt;7466;SpringerNature;15502;npolar
+springer;NUBU - Nasjonalt utviklingssenter for barn og unge;NA;NA;SpringerNature;51031;nubu
+springer;Oslo Nye Høyskole;Oslo Nye Høyskole;1620;SpringerNature;51024;bh
+springer;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;SpringerNature;15439;oslomet
+springer;SINTEF AS;SINTEF Narvik;6228;SpringerNature;15526;sintef
+springer;SINTEF AS;SINTEF AS;7401;SpringerNature;15526;sintef02
+springer;SINTEF AS;SINTEF Energi AS;7548;SpringerNature;15526;sintef03
+springer;SINTEF AS;SINTEF Ocean;7566;SpringerNature;15526;sintef04
+springer;SINTEF AS;SINTEF Manufacturing;7630;SpringerNature;15526;sintef05
+springer;Statens Arbeidsmiljøinstitutt;Statens arbeidsmiljøinstitutt;7476;SpringerNature;15537;stami
+springer;Statistisk Sentralbyrå;Statistisk sentralbyrå;5932;SpringerNature;15535;ssb
+springer;Sykehuset Telemark HF;Sykehuset Telemark HF;1959;SpringerNature;51030;sthf
+springer;Sykehuset Østfold;Sykehuset Østfold HF;1983;SpringerNature;15510;ostfsyk
+springer;Transportøkonomisk Institutt;Transportøkonomisk institutt;7482;SpringerNature;15544;toei
+springer;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;SpringerNature;15550;uio
+springer;UiO : Universitetsbiblioteket;Akershus universitetssykehus HF;1972;SpringerNature;15550;uio02
+springer;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;SpringerNature;15550;uio03
+springer;UiO : Universitetsbiblioteket;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;SpringerNature;15550;uio04
+springer;UiO : Universitetsbiblioteket;Folkehelseinstituttet;7502;SpringerNature;15550;uio05
+springer;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;SpringerNature;15552;uit
+springer;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;SpringerNature;15552;uit02
+springer;Universitetet i Agder;Universitetet i Agder;201;SpringerNature;15548;uia
+springer;Universitetet i Bergen;Universitetet i Bergen;184;SpringerNature;15549;uib
+springer;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;SpringerNature;15549;uib02
+springer;Universitetet I Stavanger;Universitetet i Stavanger;217;SpringerNature;15551;uis
+springer;Universitetet I Stavanger;Helse Stavanger HF - Stavanger universitetssjukehus;1938;SpringerNature;15551;uis02
+springer;Universitetet I Sørøst-Norge;Universitetet i Sørøst-Norge;222;SpringerNature;15447;usn
+springer;Universitetssenteret på Svalbard;Universitetssenteret på Svalbard;195;SpringerNature;15553;unis
+springer;Utdanningsdirektoratet;NA;NA;SpringerNature;15546;udir
+springer;Vestlandsforsking;Vestlandsforsking;7484;SpringerNature;24138;vf
+springer;Vestre Viken HF;Vestre Viken HF;2017;SpringerNature;15559;vvhf
+tnf;Arkitektur- og designhøgskolen i Oslo;Arkitektur- og designhøgskolen i Oslo;189;Taylor & Francis;15345;aho
+tnf;Barne-, ungdoms- og familiedirektoratet;NA;NA;Taylor & Francis;15356;bufdir
+tnf;Bergen Global, Chr. Michelsens Institutt;Chr. Michelsen Institute;7416;Taylor & Francis;15355;cmi
+tnf;Diakonhjemmet Sykehus. Medisinsk Bibliotek;Diakonhjemmet sykehus;1990;Taylor & Francis;15359;diakonsyk
+tnf;Dronning Mauds Minne Høgskole For Barnehagelærerutdanning;Dronning Mauds Minne Høgskole for barnehagelærerutdanning;253;Taylor & Francis;15360;dmmh
+tnf;Forsvarets forskningsinstitutt;Forsvarets forskningsinstitutt;7428;Taylor & Francis;15418;ffi
+tnf;Forsvarets Høgskole;Forsvarets høgskole;1627;Taylor & Francis;15420;fhs
+tnf;Handelshøyskolen BI;Handelshøyskolen BI;158;Taylor & Francis;15353;bi
+tnf;Høgskolen I Innlandet;Høgskolen i Innlandet;209;Taylor & Francis;15428;inn
+tnf;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;Taylor & Francis;15435;himolde
+tnf;Høgskolen i Østfold;Høgskolen i Østfold;224;Taylor & Francis;15443;hioef
+tnf;Høgskulen i Volda;Høgskulen i Volda;223;Taylor & Francis;15450;hvo
+tnf;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;Taylor & Francis;15449;hvl
+tnf;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;Høyskolen Kristiania;1615;Taylor & Francis;15444;hk
+tnf;Institutt For Fredsforskning;PRIO - Institutt for fredsforskning;7435;Taylor & Francis;15516;prio
+tnf;MF Vitenskapelig Høyskole For Teologi, Religion Og Samfunn;MF vitenskapelig høyskole for teologi, religion og samfunn;190;Taylor & Francis;15469;mf
+tnf;NIBIO;Norsk institutt for bioøkonomi;7677;Taylor & Francis;15481;nibio
+tnf;NLA Høgskolen;NLA Høgskolen;254;Taylor & Francis;15492;nla
+tnf;Nofima;NOFIMA;7543;Taylor & Francis;15496;nofima
+tnf;NORCE Norwegian Research Centre AS;NORCE Norwegian Research Centre AS;2057;Taylor & Francis;50928;norce
+tnf;Nord Universitet;Nord universitet;204;Taylor & Francis;15499;nord
+tnf;Nordlandsforskning;Nordlandsforskning;7446;Taylor & Francis;15474;nf
+tnf;Norges Handelshøyskole;Norges Handelshøyskole;191;Taylor & Francis;15480;nhh
+tnf;Norges Idrettshøgskole - Biblioteket;Norges idrettshøgskole;150;Taylor & Francis;15485;nih
+tnf;Norges miljø- og biovitenskapelige universitet;Norges miljø- og biovitenskapelige universitet;192;Taylor & Francis;15493;nmbu
+tnf;Norges musikkhøgskole;Norges musikkhøgskole;178;Taylor & Francis;15494;nmh
+tnf;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;Taylor & Francis;15507;ntnu
+tnf;Norges teknisk-naturvitenskapelige universitet;St. Olavs Hospital HF;1920;Taylor & Francis;15507;ntnu02
+tnf;Norsk institutt for naturforskning;Norsk institutt for naturforskning;7511;Taylor & Francis;15489;nina
+tnf;Norsk Utenrikspolitisk Institutt;Norsk Utenrikspolitisk Institutt;7471;Taylor & Francis;15508;nupi
+tnf;NUBU - Nasjonalt utviklingssenter for barn og unge;NA;NA;Taylor & Francis;51031;nubu
+tnf;Oslo Nye Høyskole;Oslo Nye Høyskole;1620;Taylor & Francis;51024;bh
+tnf;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;Taylor & Francis;15439;oslomet
+tnf;Regionsenter for barn og unges psykiske helse, helseregion Øst og Sør;RBUP Øst og Sør;7539;Taylor & Francis;15519;rbupos
+tnf;SINTEF AS;SINTEF Narvik;6228;Taylor & Francis;15526;sintef
+tnf;SINTEF AS;SINTEF AS;7401;Taylor & Francis;15526;sintef02
+tnf;SINTEF AS;SINTEF Energi AS;7548;Taylor & Francis;15526;sintef03
+tnf;SINTEF AS;SINTEF Ocean;7566;Taylor & Francis;15526;sintef04
+tnf;SINTEF AS;SINTEF Manufacturing;7630;Taylor & Francis;15526;sintef05
+tnf;Transportøkonomisk Institutt;Transportøkonomisk institutt;7482;Taylor & Francis;15544;toei
+tnf;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;Taylor & Francis;15550;uio
+tnf;UiO : Universitetsbiblioteket;Akershus universitetssykehus HF;1972;Taylor & Francis;15550;uio02
+tnf;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;Taylor & Francis;15550;uio03
+tnf;UiO : Universitetsbiblioteket;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;Taylor & Francis;15550;uio04
+tnf;UiO : Universitetsbiblioteket;Folkehelseinstituttet;7502;Taylor & Francis;15550;uio05
+tnf;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;Taylor & Francis;15552;uit
+tnf;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;Taylor & Francis;15552;uit02
+tnf;Universitetet i Agder;Universitetet i Agder;201;Taylor & Francis;15548;uia
+tnf;Universitetet i Bergen;Universitetet i Bergen;184;Taylor & Francis;15549;uib
+tnf;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;Taylor & Francis;15549;uib02
+tnf;Universitetet I Stavanger;Universitetet i Stavanger;217;Taylor & Francis;15551;uis
+tnf;Universitetet I Stavanger;Helse Stavanger HF - Stavanger universitetssjukehus;1938;Taylor & Francis;15551;uis02
+tnf;Universitetet I Sørøst-Norge;Universitetet i Sørøst-Norge;222;Taylor & Francis;15447;usn
+tnf;Vestlandsforsking;Vestlandsforsking;7484;Taylor & Francis;24138;vf
+tnf;VID Vitenskapelige Høgskole;VID vitenskapelige høgskole;251;Taylor & Francis;15557;vid
+wiley;Barne-, ungdoms- og familiedirektoratet;NA;NA;Wiley;15356;bufdir
+wiley;Bergen Global, Chr. Michelsens Institutt;Chr. Michelsen Institute;7416;Wiley;15355;cmi
+wiley;Departementenes Sikkerhets- Og Serviceorganisasjon;NA;NA;Wiley;15361;dss
+wiley;Diakonhjemmet Sykehus. Medisinsk Bibliotek;Diakonhjemmet sykehus;1990;Wiley;15359;diakonsyk
+wiley;Forsvarets forskningsinstitutt;Forsvarets forskningsinstitutt;7428;Wiley;15418;ffi
+wiley;Handelshøyskolen BI;Handelshøyskolen BI;158;Wiley;15353;bi
+wiley;Havforskningsinstituttet;Havforskningsinstituttet;7431;Wiley;15454;imr
+wiley;Høgskolen I Innlandet;Høgskolen i Innlandet;209;Wiley;15428;inn
+wiley;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;Wiley;15435;himolde
+wiley;Høgskolen i Østfold;Høgskolen i Østfold;224;Wiley;15443;hioef
+wiley;Høgskulen i Volda;Høgskulen i Volda;223;Wiley;15450;hvo
+wiley;Høgskulen På Vestlandet;Høgskulen på Vestlandet;203;Wiley;15449;hvl
+wiley;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;Høyskolen Kristiania;1615;Wiley;15444;hk
+wiley;Institutt For Fredsforskning;PRIO - Institutt for fredsforskning;7435;Wiley;15516;prio
+wiley;Lovisenberg Diakonale Høgskole;Lovisenberg diakonale høgskole;230;Wiley;15464;ldh
+wiley;MF Vitenskapelig Høyskole For Teologi, Religion Og Samfunn;MF vitenskapelig høyskole for teologi, religion og samfunn;190;Wiley;15469;mf
+wiley;Miljødirektoratet;NA;NA;Wiley;15467;mdir
+wiley;NIBIO;Norsk institutt for bioøkonomi;7677;Wiley;15481;nibio
+wiley;NILU - Stiftelsen Norsk Institutt For Luftforskning;NILU - Norsk institutt for luftforskning;7460;Wiley;15488;nilu
+wiley;Nofima;NOFIMA;7543;Wiley;15496;nofima
+wiley;NORCE Norwegian Research Centre AS;NORCE Norwegian Research Centre AS;2057;Wiley;50928;norce
+wiley;Nord Universitet;Nord universitet;204;Wiley;15499;nord
+wiley;Nordlandsforskning;Nordlandsforskning;7446;Wiley;15474;nf
+wiley;Norges Geotekniske Institutt;Norges Geotekniske Institutt;7452;Wiley;15477;ngi
+wiley;Norges Handelshøyskole;Norges Handelshøyskole;191;Wiley;15480;nhh
+wiley;Norges miljø- og biovitenskapelige universitet;Norges miljø- og biovitenskapelige universitet;192;Wiley;15493;nmbu
+wiley;Norges teknisk-naturvitenskapelige universitet;Norges teknisk-naturvitenskapelige universitet;194;Wiley;15507;ntnu
+wiley;Norges teknisk-naturvitenskapelige universitet;St. Olavs Hospital HF;1920;Wiley;15507;ntnu02
+wiley;Norsk institutt for naturforskning;Norsk institutt for naturforskning;7511;Wiley;15489;nina
+wiley;Norsk Institutt For Vannforskning;Norsk institutt for vannforskning;7464;Wiley;15491;niva
+wiley;Norsk Polarinstitutt;Norsk Polarinstitutt;7466;Wiley;15502;npolar
+wiley;NUBU - Nasjonalt utviklingssenter for barn og unge;NA;NA;Wiley;51031;nubu
+wiley;Oslo Nye Høyskole;Oslo Nye Høyskole;1620;Wiley;51024;bh
+wiley;OsloMet - Storbyuniversitetet;OsloMet - storbyuniversitetet;215;Wiley;15439;oslomet
+wiley;Regionsenter for barn og unges psykiske helse, helseregion Øst og Sør;RBUP Øst og Sør;7539;Wiley;15519;rbupos
+wiley;SINTEF AS;SINTEF Narvik;6228;Wiley;15526;sintef
+wiley;SINTEF AS;SINTEF AS;7401;Wiley;15526;sintef02
+wiley;SINTEF AS;SINTEF Energi AS;7548;Wiley;15526;sintef03
+wiley;SINTEF AS;SINTEF Ocean;7566;Wiley;15526;sintef04
+wiley;SINTEF AS;SINTEF Manufacturing;7630;Wiley;15526;sintef05
+wiley;Statistisk Sentralbyrå;Statistisk sentralbyrå;5932;Wiley;15535;ssb
+wiley;Sykehuset Telemark HF;Sykehuset Telemark HF;1959;Wiley;51030;sthf
+wiley;Sykehuset Østfold;Sykehuset Østfold HF;1983;Wiley;15510;ostfsyk
+wiley;Sørlandet Sykehus HF;Sørlandet sykehus HF;1965;Wiley;15536;sshf
+wiley;UiO : Universitetsbiblioteket;Universitetet i Oslo;185;Wiley;15550;uio
+wiley;UiO : Universitetsbiblioteket;Akershus universitetssykehus HF;1972;Wiley;15550;uio02
+wiley;UiO : Universitetsbiblioteket;Oslo universitetssykehus HF;2012;Wiley;15550;uio03
+wiley;UiO : Universitetsbiblioteket;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;Wiley;15550;uio04
+wiley;UiO : Universitetsbiblioteket;Folkehelseinstituttet;7502;Wiley;15550;uio05
+wiley;UiT - Norges arktiske universitet;UiT Norges arktiske universitet;186;Wiley;15552;uit
+wiley;UiT - Norges arktiske universitet;Universitetssykehuset Nord-Norge HF;1902;Wiley;15552;uit02
+wiley;Universitetet i Agder;Universitetet i Agder;201;Wiley;15548;uia
+wiley;Universitetet i Bergen;Universitetet i Bergen;184;Wiley;15549;uib
+wiley;Universitetet i Bergen;Helse Bergen HF - Haukeland universitetssykehus;1936;Wiley;15549;uib02
+wiley;Universitetet I Stavanger;Universitetet i Stavanger;217;Wiley;15551;uis
+wiley;Universitetet I Stavanger;Helse Stavanger HF - Stavanger universitetssjukehus;1938;Wiley;15551;uis02
+wiley;Universitetet I Sørøst-Norge;Universitetet i Sørøst-Norge;222;Wiley;15447;usn
+wiley;Universitetssenteret på Svalbard;Universitetssenteret på Svalbard;195;Wiley;15553;unis
+wiley;Utdanningsdirektoratet;NA;NA;Wiley;15546;udir
+wiley;Vestre Viken HF;Vestre Viken HF;2017;Wiley;15559;vvhf
+wiley;Veterinærinstituttet;Veterinærinstituttet;7497;Wiley;15556;vetinst
+wiley;VID Vitenskapelige Høgskole;VID vitenskapelige høgskole;251;Wiley;15557;vid
