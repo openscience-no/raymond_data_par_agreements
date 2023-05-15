@@ -39,6 +39,13 @@ cup;Universitetet I Stavanger;uis02;Helse Stavanger HF - Stavanger universitetss
 cup;Universitetet i Agder;uia;Universitetet i Agder;201;15548;Cambridge University Press;CUP 2023-2024;2023-01-01;2024-12-31;2023-04-24;NA
 cup;Universitetet i Bergen;uib;Universitetet i Bergen;184;15549;Cambridge University Press;CUP 2023-2024;2023-01-01;2024-12-31;2023-04-24;NA
 cup;Universitetet i Bergen;uib02;Helse Bergen HF - Haukeland universitetssykehus;1936;15549;Cambridge University Press;CUP 2023-2024;2023-01-01;2024-12-31;2023-04-24;NA
+degruyter;UiO : Universitetsbiblioteket;uio;Universitetet i Oslo;185;15550;DeGruyter;Degruyter journals, ebooks & databases;2020-01-01;2023-12-31;NA;Degruyter Complete Journal Package + Hybrid OA transformative pricing
+degruyter;UiO : Universitetsbiblioteket;uio02;Oslo universitetssykehus HF;2012;15550;DeGruyter;Degruyter journals, ebooks & databases;2020-01-01;2023-12-31;NA;Degruyter Complete Journal Package + Hybrid OA transformative pricing
+degruyter;UiO : Universitetsbiblioteket;uio03;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;15550;DeGruyter;Degruyter journals, ebooks & databases;2020-01-01;2023-12-31;NA;Degruyter Complete Journal Package + Hybrid OA transformative pricing
+degruyter;UiT - Norges arktiske universitet;uit;UiT Norges arktiske universitet;186;15552;DeGruyter;Degruyter journals, ebooks & databases;2020-01-01;2023-12-31;NA;Degruyter Complete Journal Package + Hybrid OA transformative pricing
+degruyter;UiT - Norges arktiske universitet;uit02;Universitetssykehuset Nord-Norge HF;1902;15552;DeGruyter;Degruyter journals, ebooks & databases;2020-01-01;2023-12-31;NA;Degruyter Complete Journal Package + Hybrid OA transformative pricing
+degruyter;Universitetet i Bergen;uib;Universitetet i Bergen;184;15549;DeGruyter;Degruyter journals, ebooks & databases;2020-01-01;2023-12-31;NA;Degruyter Complete Journal Package + Hybrid OA transformative pricing
+degruyter;Universitetet i Bergen;uib02;Helse Bergen HF - Haukeland universitetssykehus;1936;15549;DeGruyter;Degruyter journals, ebooks & databases;2020-01-01;2023-12-31;NA;Degruyter Complete Journal Package + Hybrid OA transformative pricing
 elsevier;Bergen Global, Chr. Michelsens Institutt;cmi;Chr. Michelsen Institute;7416;15355;Elsevier;Science Direct 2022-2024;2022-01-01;2024-12-31;NA;Freedom Collection
 elsevier;Departementenes Sikkerhets- Og Serviceorganisasjon;dss;NA;NA;15361;Elsevier;Science Direct 2022-2024;2022-01-01;2024-12-31;NA;Freedom Collection
 elsevier;Direktoratet for strålevern og atomsikkerhet;dsa;NA;NA;15505;Elsevier;Science Direct 2022-2024;2022-01-01;2024-12-31;NA;Freedom Collection
@@ -236,3 +243,65 @@ springer;Universitetssenteret på Svalbard;unis;Universitetssenteret på Svalbar
 springer;Utdanningsdirektoratet;udir;NA;NA;15546;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
 springer;Vestlandsforsking;vf;Vestlandsforsking;7484;24138;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
 springer;Vestre Viken HF;vvhf;Vestre Viken HF;2017;15559;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
+tnf;Arkitektur- og designhøgskolen i Oslo;aho;Arkitektur- og designhøgskolen i Oslo;189;15345;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Barne-, ungdoms- og familiedirektoratet;bufdir;NA;NA;15356;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Bergen Global, Chr. Michelsens Institutt;cmi;Chr. Michelsen Institute;7416;15355;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Diakonhjemmet Sykehus. Medisinsk Bibliotek;diakonsyk;Diakonhjemmet sykehus;1990;15359;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Dronning Mauds Minne Høgskole For Barnehagelærerutdanning;dmmh;Dronning Mauds Minne Høgskole for barnehagelærerutdanning;253;15360;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Forsvarets Høgskole;fhs;Forsvarets høgskole;1627;15420;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Forsvarets forskningsinstitutt;ffi;Forsvarets forskningsinstitutt;7428;15418;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Handelshøyskolen BI;bi;Handelshøyskolen BI;158;15353;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Høgskolen I Innlandet;inn;Høgskolen i Innlandet;209;15428;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;himolde;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;15435;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Høgskolen i Østfold;hioef;Høgskolen i Østfold;224;15443;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Høgskulen På Vestlandet;hvl;Høgskulen på Vestlandet;203;15449;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Høgskulen i Volda;hvo;Høgskulen i Volda;223;15450;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;hk;Høyskolen Kristiania;1615;15444;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Institutt For Fredsforskning;prio;PRIO - Institutt for fredsforskning;7435;15516;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Institutt For Samfunnsforskning;isf;Institutt for samfunnsforskning;7437;15455;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Institutt for energiteknikk;ife;Institutt for energiteknikk;7492;15451;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;MF Vitenskapelig Høyskole For Teologi, Religion Og Samfunn;mf;MF vitenskapelig høyskole for teologi, religion og samfunn;190;15469;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;NIBIO;nibio;Norsk institutt for bioøkonomi;7677;15481;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;NLA Høgskolen;nla;NLA Høgskolen;254;15492;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;NORCE Norwegian Research Centre AS;norce;NORCE Norwegian Research Centre AS;2057;50928;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;NUBU - Nasjonalt utviklingssenter for barn og unge;nubu;NA;NA;51031;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Nofima;nofima;NOFIMA;7543;15496;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Nord Universitet;nord;Nord universitet;204;15499;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Nordlandsforskning;nf;Nordlandsforskning;7446;15474;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norges Geotekniske Institutt;ngi;Norges Geotekniske Institutt;7452;15477;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norges Handelshøyskole;nhh;Norges Handelshøyskole;191;15480;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norges Idrettshøgskole - Biblioteket;nih;Norges idrettshøgskole;150;15485;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norges miljø- og biovitenskapelige universitet;nmbu;Norges miljø- og biovitenskapelige universitet;192;15493;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norges musikkhøgskole;nmh;Norges musikkhøgskole;178;15494;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norges teknisk-naturvitenskapelige universitet;ntnu;Norges teknisk-naturvitenskapelige universitet;194;15507;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norges teknisk-naturvitenskapelige universitet;ntnu02;St. Olavs Hospital HF;1920;15507;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norsk Utenrikspolitisk Institutt;nupi;Norsk Utenrikspolitisk Institutt;7471;15508;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norsk institutt for kulturminneforskning;niku;Norsk institutt for kulturminneforskning;7530;15486;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Norsk institutt for naturforskning;nina;Norsk institutt for naturforskning;7511;15489;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Oslo Nye Høyskole;bh;Oslo Nye Høyskole;1620;51024;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;OsloMet - Storbyuniversitetet;oslomet;OsloMet - storbyuniversitetet;215;15439;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Regionsenter for barn og unges psykiske helse, helseregion Øst og Sør;rbupos;RBUP Øst og Sør;7539;15519;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Ruralis - Institutt for rural- og regionalforskning ;rura;RURALIS – Institutt for rural- og regionalforskning;7501;51034;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;SINTEF AS;sintef;SINTEF Narvik;6228;15526;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;SINTEF AS;sintef02;SINTEF AS;7401;15526;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;SINTEF AS;sintef03;SINTEF Energi AS;7548;15526;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;SINTEF AS;sintef04;SINTEF Ocean;7566;15526;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;SINTEF AS;sintef05;SINTEF Manufacturing;7630;15526;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Statistisk Sentralbyrå;ssb;Statistisk sentralbyrå;5932;15535;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Transportøkonomisk Institutt;toei;Transportøkonomisk institutt;7482;15544;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;UiO : Universitetsbiblioteket;uio;Universitetet i Oslo;185;15550;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;UiO : Universitetsbiblioteket;uio02;Akershus universitetssykehus HF;1972;15550;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;UiO : Universitetsbiblioteket;uio03;Oslo universitetssykehus HF;2012;15550;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;UiO : Universitetsbiblioteket;uio04;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;15550;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;UiO : Universitetsbiblioteket;uio05;Folkehelseinstituttet;7502;15550;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;UiT - Norges arktiske universitet;uit;UiT Norges arktiske universitet;186;15552;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;UiT - Norges arktiske universitet;uit02;Universitetssykehuset Nord-Norge HF;1902;15552;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Universitetet I Stavanger;uis;Universitetet i Stavanger;217;15551;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Universitetet I Stavanger;uis02;Helse Stavanger HF - Stavanger universitetssjukehus;1938;15551;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Universitetet I Sørøst-Norge;usn;Universitetet i Sørøst-Norge;222;15447;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Universitetet i Agder;uia;Universitetet i Agder;201;15548;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Universitetet i Bergen;uib;Universitetet i Bergen;184;15549;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Universitetet i Bergen;uib02;Helse Bergen HF - Haukeland universitetssykehus;1936;15549;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Universitetssenteret på Svalbard;unis;Universitetssenteret på Svalbard;195;15553;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;VID Vitenskapelige Høgskole;vid;VID vitenskapelige høgskole;251;15557;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
+tnf;Vestlandsforsking;vf;Vestlandsforsking;7484;24138;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
