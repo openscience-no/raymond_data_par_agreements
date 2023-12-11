@@ -294,65 +294,87 @@ sage;Universitetet i Bergen;uib02;Helse Bergen HF - Haukeland universitetssykehu
 sage;VID Vitenskapelige Høgskole;vid;VID vitenskapelige høgskole;251;15557;SAGE;Sage Premier 2023;2023-01-01;2023-12-31;2023-04-24;NA
 sage;Vestlandsforsking;vf;Vestlandsforsking;7484;24138;SAGE;Sage Premier 2023;2023-01-01;2023-12-31;2023-04-24;NA
 sage;Vestre Viken HF;vvhf;Vestre Viken HF;2017;15559;SAGE;Sage Premier 2023;2023-01-01;2023-12-31;2023-04-24;NA
-springer;Diakonhjemmet Sykehus. Medisinsk Bibliotek;diakonsyk;Diakonhjemmet sykehus;1990;15359;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;GRID-Arendal;grid;NA;NA;51025;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Handelshøyskolen BI;bi;Handelshøyskolen BI;158;15353;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Havforskningsinstituttet;imr;Havforskningsinstituttet;7431;15454;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Høgskolen I Innlandet;inn;Høgskolen i Innlandet;209;15428;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;himolde;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;15435;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Høgskolen i Østfold;hioef;Høgskolen i Østfold;224;15443;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Høgskulen På Vestlandet;hvl;Høgskulen på Vestlandet;203;15449;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Høgskulen i Volda;hvo;Høgskulen i Volda;223;15450;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;hk;Høyskolen Kristiania;1615;15444;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Institutt for energiteknikk;ife;Institutt for energiteknikk;7492;15451;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;MF Vitenskapelig Høyskole For Teologi, Religion Og Samfunn;mf;MF vitenskapelig høyskole for teologi, religion og samfunn;190;15469;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Meteorologisk institutt;met;Meteorologisk institutt;7419;15468;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;NIBIO;nibio;Norsk institutt for bioøkonomi;7677;15481;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;NILU - Stiftelsen Norsk Institutt For Luftforskning;nilu;NILU - Norsk institutt for luftforskning;7460;15488;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;NKVTS-Nasjonalt kunnskapssenter om vold og traumatisk stress;NA;Nasjonalt kunnskapssenter om vold og traumatisk stress;6077;NA;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;NORCE Norwegian Research Centre AS;norce;NORCE Norwegian Research Centre AS;2057;50928;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;NUBU - Nasjonalt utviklingssenter for barn og unge;nubu;NA;NA;51031;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Nofima;nofima;NOFIMA;7543;15496;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Nord Universitet;nord;Nord universitet;204;15499;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Nordlandsforskning;nf;Nordlandsforskning;7446;15474;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norges Geotekniske Institutt;ngi;Norges Geotekniske Institutt;7452;15477;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norges Handelshøyskole;nhh;Norges Handelshøyskole;191;15480;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norges Idrettshøgskole - Biblioteket;nih;Norges idrettshøgskole;150;15485;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norges miljø- og biovitenskapelige universitet;nmbu;Norges miljø- og biovitenskapelige universitet;192;15493;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norges teknisk-naturvitenskapelige universitet;ntnu;Norges teknisk-naturvitenskapelige universitet;194;15507;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norges teknisk-naturvitenskapelige universitet;ntnu02;St. Olavs Hospital HF;1920;15507;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norsk Institutt For Vannforskning;niva;Norsk institutt for vannforskning;7464;15491;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norsk Polarinstitutt;npolar;Norsk Polarinstitutt;7466;15502;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Norsk institutt for naturforskning;nina;Norsk institutt for naturforskning;7511;15489;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Oslo Nye Høyskole;bh;Oslo Nye Høyskole;1620;51024;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;OsloMet - Storbyuniversitetet;oslomet;OsloMet - storbyuniversitetet;215;15439;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;SINTEF AS;sintef;SINTEF Narvik;6228;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;SINTEF AS;sintef02;SINTEF AS;7401;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;SINTEF AS;sintef03;SINTEF Energi AS;7548;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;SINTEF AS;sintef04;SINTEF Ocean;7566;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;SINTEF AS;sintef05;SINTEF Manufacturing;7630;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Statens Arbeidsmiljøinstitutt;stami;Statens arbeidsmiljøinstitutt;7476;15537;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Statistisk Sentralbyrå;ssb;Statistisk sentralbyrå;5932;15535;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Sykehuset Telemark HF;sthf;Sykehuset Telemark HF;1959;51030;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Sykehuset i Vestfold;siv;Sykehuset i Vestfold HF;1958;15529;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Sykehuset Østfold;ostfsyk;Sykehuset Østfold HF;1983;15510;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Sørlandet Sykehus HF;sshf;Sørlandet sykehus HF;1965;15536;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Transportøkonomisk Institutt;toei;Transportøkonomisk institutt;7482;15544;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;UiO : Universitetsbiblioteket;uio;Universitetet i Oslo;185;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;UiO : Universitetsbiblioteket;uio02;Akershus universitetssykehus HF;1972;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;UiO : Universitetsbiblioteket;uio03;Oslo universitetssykehus HF;2012;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;UiO : Universitetsbiblioteket;uio04;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;UiT - Norges arktiske universitet;uit;UiT Norges arktiske universitet;186;15552;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;UiT - Norges arktiske universitet;uit02;Universitetssykehuset Nord-Norge HF;1902;15552;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Universitetet I Stavanger;uis;Universitetet i Stavanger;217;15551;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Universitetet I Sørøst-Norge;usn;Universitetet i Sørøst-Norge;222;15447;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Universitetet i Agder;uia;Universitetet i Agder;201;15548;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Universitetet i Bergen;uib;Universitetet i Bergen;184;15549;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Universitetet i Bergen;uib02;Helse Bergen HF - Haukeland universitetssykehus;1936;15549;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Universitetssenteret på Svalbard;unis;Universitetssenteret på Svalbard;195;15553;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Utdanningsdirektoratet;udir;NA;NA;15546;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Vestlandsforsking;vf;Vestlandsforsking;7484;24138;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
-springer;Vestre Viken HF;vvhf;Vestre Viken HF;2017;15559;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-04-24;NA
+springer;Diakonhjemmet Sykehus. Medisinsk Bibliotek;diakonsyk;Diakonhjemmet sykehus;1990;15359;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;GRID-Arendal;grid;NA;NA;51025;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Handelshøyskolen BI;bi;Handelshøyskolen BI;158;15353;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Havforskningsinstituttet;imr;Havforskningsinstituttet;7431;15454;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Høgskolen I Innlandet;inn;Høgskolen i Innlandet;209;15428;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;himolde;Høgskolen i Molde - Vitenskapelig høgskole i logistikk;211;15435;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Høgskolen i Østfold;hioef;Høgskolen i Østfold;224;15443;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Høgskulen På Vestlandet;hvl;Høgskulen på Vestlandet;203;15449;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Høgskulen i Volda;hvo;Høgskulen i Volda;223;15450;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Høyskolen Kristiania - Ernst G Mortensens Stiftelse;hk;Høyskolen Kristiania;1615;15444;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Institutt for energiteknikk;ife;Institutt for energiteknikk;7492;15451;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;MF Vitenskapelig Høyskole For Teologi, Religion Og Samfunn;mf;MF vitenskapelig høyskole for teologi, religion og samfunn;190;15469;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Meteorologisk institutt;met;Meteorologisk institutt;7419;15468;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;NIBIO;nibio;Norsk institutt for bioøkonomi;7677;15481;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;NILU - Stiftelsen Norsk Institutt For Luftforskning;nilu;NILU - Norsk institutt for luftforskning;7460;15488;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;NKVTS-Nasjonalt kunnskapssenter om vold og traumatisk stress;nkvts;Nasjonalt kunnskapssenter om vold og traumatisk stress;6077;51035;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;NORCE Norwegian Research Centre AS;norce;NORCE Norwegian Research Centre AS;2057;50928;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;NUBU - Nasjonalt utviklingssenter for barn og unge;nubu;NA;NA;51031;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Nofima;nofima;NOFIMA;7543;15496;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Nord Universitet;nord;Nord universitet;204;15499;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Nordlandsforskning;nf;Nordlandsforskning;7446;15474;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norges Geotekniske Institutt;ngi;Norges Geotekniske Institutt;7452;15477;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norges Handelshøyskole;nhh;Norges Handelshøyskole;191;15480;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norges Idrettshøgskole - Biblioteket;nih;Norges idrettshøgskole;150;15485;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norges miljø- og biovitenskapelige universitet;nmbu;Norges miljø- og biovitenskapelige universitet;192;15493;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norges teknisk-naturvitenskapelige universitet;ntnu;Norges teknisk-naturvitenskapelige universitet;194;15507;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norges teknisk-naturvitenskapelige universitet;ntnu02;St. Olavs Hospital HF;1920;15507;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norsk Institutt For Vannforskning;niva;Norsk institutt for vannforskning;7464;15491;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norsk Polarinstitutt;npolar;Norsk Polarinstitutt;7466;15502;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Norsk institutt for naturforskning;nina;Norsk institutt for naturforskning;7511;15489;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Oslo Nye Høyskole;bh;Oslo Nye Høyskole;1620;51024;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;OsloMet - Storbyuniversitetet;oslomet;OsloMet - storbyuniversitetet;215;15439;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef;SINTEF Narvik;6228;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef02;SINTEF Narvik;6228;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef03;SINTEF Narvik;6228;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef04;SINTEF Narvik;6228;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef05;SINTEF Narvik;6228;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef06;SINTEF AS;7401;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef07;SINTEF AS;7401;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef08;SINTEF AS;7401;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef09;SINTEF AS;7401;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef010;SINTEF AS;7401;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef011;SINTEF Energi AS;7548;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef012;SINTEF Energi AS;7548;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef013;SINTEF Energi AS;7548;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef014;SINTEF Energi AS;7548;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef015;SINTEF Energi AS;7548;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef016;SINTEF Ocean;7566;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef017;SINTEF Ocean;7566;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef018;SINTEF Ocean;7566;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef019;SINTEF Ocean;7566;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef020;SINTEF Ocean;7566;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef021;SINTEF Manufacturing;7630;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef022;SINTEF Manufacturing;7630;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef023;SINTEF Manufacturing;7630;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef024;SINTEF Manufacturing;7630;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;SINTEF AS;sintef025;SINTEF Manufacturing;7630;15526;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Statens Arbeidsmiljøinstitutt;stami;Statens arbeidsmiljøinstitutt;7476;15537;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Statistisk Sentralbyrå;ssb;Statistisk sentralbyrå;5932;15535;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Sykehuset Telemark HF;sthf;Sykehuset Telemark HF;1959;51030;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Sykehuset i Vestfold;siv;Sykehuset i Vestfold HF;1958;15529;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Sykehuset Østfold;ostfsyk;Sykehuset Østfold HF;1983;15510;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Sørlandet Sykehus HF;sshf;Sørlandet sykehus HF;1965;15536;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Transportøkonomisk Institutt;toei;Transportøkonomisk institutt;7482;15544;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;UiO : Universitetsbiblioteket;uio;Universitetet i Oslo;185;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;UiO : Universitetsbiblioteket;uio02;Akershus universitetssykehus HF;1972;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;UiO : Universitetsbiblioteket;uio03;Oslo universitetssykehus HF;2012;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;UiO : Universitetsbiblioteket;uio04;Kreftregisteret - Institutt for populasjonsbasert kreftforskning;5737;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;UiO : Universitetsbiblioteket;uio05;Folkehelseinstituttet;7502;15550;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;UiT - Norges arktiske universitet;uit;UiT Norges arktiske universitet;186;15552;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;UiT - Norges arktiske universitet;uit02;Universitetssykehuset Nord-Norge HF;1902;15552;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Universitetet I Stavanger;uis;Universitetet i Stavanger;217;15551;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Universitetet I Stavanger;uis02;Helse Stavanger HF - Stavanger universitetssjukehus;1938;15551;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Universitetet I Sørøst-Norge;usn;Universitetet i Sørøst-Norge;222;15447;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Universitetet i Agder;uia;Universitetet i Agder;201;15548;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Universitetet i Bergen;uib;Universitetet i Bergen;184;15549;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Universitetet i Bergen;uib02;Helse Bergen HF - Haukeland universitetssykehus;1936;15549;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Universitetssenteret på Svalbard;unis;Universitetssenteret på Svalbard;195;15553;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Utdanningsdirektoratet;udir;NA;NA;15546;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Vestlandsforsking;vf;Vestlandsforsking;7484;24138;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
+springer;Vestre Viken HF;vvhf;Vestre Viken HF;2017;15559;SpringerNature;Springer Compact;2023-01-01;2024-12-31;2023-12-11;NA
 tnf;Arkitektur- og designhøgskolen i Oslo;aho;Arkitektur- og designhøgskolen i Oslo;189;15345;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
 tnf;Barne-, ungdoms- og familiedirektoratet;bufdir;NA;NA;15356;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
 tnf;Bergen Global, Chr. Michelsens Institutt;cmi;Chr. Michelsen Institute;7416;15355;Taylor & Francis;Taylor & Francis 2023-2024;2023-01-01;2024-12-31;2023-05-15;NA
